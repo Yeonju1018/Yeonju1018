@@ -1,15 +1,15 @@
 # Hello
 
 :kr: <br>
-:phone: 010-000-000 <br>
-:e-mail: juu1018w@gmail.com
-
+:phone: 010-0000-0000 <br>
+:e-mail: juu1018w@gmail.com <br>
+:peach: SNS
 
 :books: AWS 클라우드 기반 CS 개발자 과정 학습 중
 
 ![JAVA](https://img.shields.io/badge/java-brightgreen)
-![HTML/css](https://img.shields.io/badge/HTML-css-orange)
-
+![HTML/CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![Python](https://img.shields.io/badge/-Python-blue)
 
 
 
