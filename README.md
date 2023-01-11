@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello~
+## 만나서 반갑습니다~
+
 
 <!--
 **Yeonju1018/Yeonju1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
