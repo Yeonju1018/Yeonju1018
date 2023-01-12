@@ -12,7 +12,7 @@
 ![Yeonju1018's github stats](https://github-readme-stats.vercel.app/api?username=Yeonju1018&show_icons=true)
 [![Yeonju1018's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonju1018&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Yeonju1018)
 
-
+🍀갈길이 멀다🍀 <br>
 ![JAVA](https://img.shields.io/badge/java-brightgreen)
 ![HTML/CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Python](https://img.shields.io/badge/-Python-blue)
